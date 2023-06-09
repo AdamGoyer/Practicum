@@ -1,2 +1,2 @@
 # Practicum
- Practicum Bootcamp
+Practicum Bootcamp
