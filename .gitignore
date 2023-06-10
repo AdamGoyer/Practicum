@@ -1,1 +1,40 @@
+# Python Virtual Enviroment
+venv/
+Practicum/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+dist/
+eggs/
+*.egg-info/
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyCharm files
+.idea/
+
+# Visual Studio Code files
+.vscode/
 Practicum.code-workspace
+
+# Jupyter Notebook files
+# .ipynb_checkpoints/
+# *.ipynb
+
+# Miscellaneous
+*.bak
+*.swp
+*~
+.DS_Store
