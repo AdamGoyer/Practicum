@@ -29,6 +29,7 @@ pip-delete-this-directory.txt
 .vscode/
 Practicum.code-workspace
 
+
 # Jupyter Notebook files
 # .ipynb_checkpoints/
 # *.ipynb
